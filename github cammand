@@ -1,0 +1,37 @@
+ls -a
+mkdir
+cd
+
+
+sudo apt install git
+
+git init
+
+git config --global user.name "Vishnu"
+
+git config --global user.email ""
+
+git remote add origin "url"
+
+git status
+
+git add "filename"
+
+git diff "filename"
+
+git commit -m "massage"
+
+git log
+
+git pull origin master
+
+git push origin master
+
+git branch
+
+git rm --catch filename
+
+
+
+q1)  server, hosting database and cloud
+q2) unstage stage track untrack commit
